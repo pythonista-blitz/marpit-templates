@@ -39,10 +39,8 @@ updated: 2025-05-12T11:38
 1. VS Codeの拡張機能設定からCSSファイルのパスを指定する:
 
 ```bash
-marpit-template/css/nistaｌ.css
+marpit-template/css/nista.css
 ```
-
-![ext_setting](./demo/vscode_setting.png)
 
 ## 使用方法（または実行方法）
 
